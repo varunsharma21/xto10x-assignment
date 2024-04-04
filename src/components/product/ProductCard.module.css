@@ -1,0 +1,25 @@
+.card {
+  height: 270px;
+  width: 200px;
+  margin: 30px;
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 1px solid grey;
+  cursor: pointer;
+  font-family: "Montserrat", sans-serif;
+}
+
+.card img {
+  height: 200px;
+  width: 80%;
+  margin-top: 15px;
+}
+
+.title {
+  margin-top: 10px;
+  padding: 5px;
+}
